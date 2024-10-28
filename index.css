@@ -1,0 +1,19 @@
+.first{
+    border-image: 5px;
+    border-color: black;
+    margin-left: 35%;
+    color: red;
+    font-size: 80px;
+    color: aliceblue;
+}
+p{
+    color: aquamarine;
+}
+ #first{
+    border-image: 5px;
+    border-color: black;
+    margin-left: 17%;
+ }
+ body{
+    background-color: black;
+ }
