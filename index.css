@@ -8,7 +8,8 @@
     text-shadow: 5px 5px 5px gold;
 }
 p{
-    color: aquamarine;
+    color:  rgb(0, 106, 255);
+    font-style: Sans-Serif;
 }
  #first{
     border-image: 5px;
@@ -17,4 +18,10 @@ p{
  }
  body{
     background-color: black;
+ }
+ #img{
+    margin-left:-300px;
+ }
+ #imgto{
+    margin-left: 20%;
  }
