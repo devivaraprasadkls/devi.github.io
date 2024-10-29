@@ -1,5 +1,4 @@
 .first{
-    border-image: 5px;
     border-color: black;
     margin-left: 35%;
     color: red;
@@ -18,6 +17,12 @@ p{
  }
  body{
     background-color: black;
+ }
+ #first{
+    border-style:outset;
+    border-width: 5px;
+    border-color:gold;
+    border-radius: 2px;
  }
  #img{
     margin-left:-300px;
